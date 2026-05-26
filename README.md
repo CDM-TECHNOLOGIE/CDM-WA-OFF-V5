@@ -60,11 +60,11 @@ bash
 
 pkg install git python -y
 
-git clone https://github.com/CDM-TECHNOLOGIE/CDM-OFF-V5
+git clone https://github.com/CDM-TECHNOLOGIE/CDM-WA-OFF-V5
 
 cd CDM-OFF-V5
 
-python CDM-OFF-V5
+python CDM.py
 
 
 Faut fork le répo et rejoindre la chaîne pour que l'outil fonctionne
